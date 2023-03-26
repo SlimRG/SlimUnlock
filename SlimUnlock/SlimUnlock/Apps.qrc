@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Apps">
+        <file alias="HuananzhiParser.exe">apps/HuananzhiParser/main.exe</file>
+        <file alias="slimrg.exe">apps/unrar/slimrg.exe</file>
+        <file alias="mmtool.exe">apps/mmtool/mmtool_a5.exe</file>
+        <file alias="ami.exe">apps/ami/AMIBCP5.exe</file>
+    </qresource>
+    <qresource prefix="/Assets">
+        <file alias="app.ico">assets/app.ico</file>
+    </qresource>
+</RCC>
